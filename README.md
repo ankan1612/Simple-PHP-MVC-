@@ -1,2 +1,2 @@
-# Simple-PHP-MVC-
+# Simple PHP with MVC
 A simple, quick and easy to use PHP MVC with Autoloading, Routing, Models, Views and  Controllers.
